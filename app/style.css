@@ -1,0 +1,46 @@
+
+  .login{
+    text-align: center;
+  }
+  .input-group{
+    padding: 10px 0;
+    color: #B8B8B8;
+  }
+  .login__name{
+    padding: 10px 0;
+  }
+  .log_container{
+    background-color: #222222;
+width: 281px;
+background-position: center;
+text-align: center;
+margin-left: 39%;
+height: 275px;
+border-radius: 2%;
+  }
+  .error{
+    color: #B8B8B8;
+  }
+  .logout{
+    color: #B8B8B8;
+    padding-top: 10px;
+  }
+  .logout{
+    padding-top: 10px;
+  }
+  .btn-log{
+    background-color: #D3E2EB;
+padding: 5px 15px;
+border-radius: 5%;
+  }
+  .swaip__item-subtitle{
+    width: 166px;
+  }
+  .header-navigation{
+    float: left;
+    font-family: "Roboto-Regular", sans-serif;
+    font-size: 16px;
+    width: 201px;
+    padding-top: 14px;
+  }
+  
